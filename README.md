@@ -7,7 +7,7 @@ This script is designed to re-annotate all repeated reject data efficiently. Fol
 1. Install the required dependencies:
 
     ```bash
-    pip install -r requirements.txt
+    pip install -r req.txt
     ```
 
 2. Select the path to the geckodriver's executable.
